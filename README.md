@@ -6,4 +6,13 @@ This simple logistics regression model classifies cat (y=1) and not cat (y=0)
 
 
 
-# In completion of Neural Network and deep learning course by deeplearning.ai
+
+
+
+
+
+
+
+
+
+#### In completion of Neural Network and deep learning course by deeplearning.ai
